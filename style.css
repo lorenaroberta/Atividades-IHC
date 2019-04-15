@@ -10,7 +10,7 @@
 table,
 th,
 td {
-    border: 1px solid black;
+    border: 1px solid white;
     border-collapse: collapse;
 }
 
@@ -19,3 +19,13 @@ td {
     padding: 6px;
     text-align: center;
 }
+    table thead tr th{
+    color:white;
+    background-color: rgb(68, 125, 248);
+    }
+    #color_green{
+        background-color: rgb(174, 240, 202);
+    }
+    #color_yellow{
+        background-color: rgba(255, 196, 34, 0.692);
+    }
