@@ -1,0 +1,21 @@
+#container table{
+    margin:0 auto;
+}
+
+#container h2{
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 6px;
+    text-align: center;
+}
